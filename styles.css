@@ -1,0 +1,23 @@
+body{
+    font-family: times new roman;
+    color: #333333;
+    background-color: #fdf8f0;
+}
+h1,h2{
+    color: #1B4D3E;
+}
+h1{
+    text-align: center;
+}
+.intro{
+    font-size: 1.2em;
+   text-align: center;
+    margin: 20px;
+}
+.tip{
+    font-style: italic;
+    color: #b75b05;
+}
+img{
+    border:4px solid #1b4d3e;
+}
